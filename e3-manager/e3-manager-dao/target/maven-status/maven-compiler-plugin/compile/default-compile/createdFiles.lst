@@ -1,0 +1,11 @@
+com\bees360\mapper\TbContentMapper.class
+com\bees360\mapper\TbOrderMapper.class
+com\bees360\mapper\TbItemParamItemMapper.class
+com\bees360\mapper\TbUserMapper.class
+com\bees360\mapper\TbItemDescMapper.class
+com\bees360\mapper\TbOrderShippingMapper.class
+com\bees360\mapper\TbItemMapper.class
+com\bees360\mapper\TbOrderItemMapper.class
+com\bees360\mapper\TbItemCatMapper.class
+com\bees360\mapper\TbContentCategoryMapper.class
+com\bees360\mapper\TbItemParamMapper.class
